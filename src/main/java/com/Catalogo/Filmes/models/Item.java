@@ -1,4 +1,4 @@
-package com.Catalogo.Filmes.domain;
+package com.Catalogo.Filmes.models;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
